@@ -1,2 +1,2 @@
---Comment;
+--Comment.
 SHOW databases;
